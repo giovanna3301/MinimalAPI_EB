@@ -25,3 +25,4 @@ D:\Projekty\Lab01_MinimalAPI\Api\MinimalApiDemo\obj\Debug\net9.0\refint\MinimalA
 D:\Projekty\Lab01_MinimalAPI\Api\MinimalApiDemo\obj\Debug\net9.0\MinimalApiDemo.pdb
 D:\Projekty\Lab01_MinimalAPI\Api\MinimalApiDemo\obj\Debug\net9.0\MinimalApiDemo.genruntimeconfig.cache
 D:\Projekty\Lab01_MinimalAPI\Api\MinimalApiDemo\obj\Debug\net9.0\ref\MinimalApiDemo.dll
+D:\Projekty\Lab01_MinimalAPI\Api\MinimalApiDemo\obj\Debug\net9.0\MinimalApiDemo.sourcelink.json

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Projekty\\Lab01_MinimalAPI\\Api\\MinimalApiDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{391FA8B8-661D-BC65-93E5-07C83540B792}|MinimalApiDemo.csproj|d:\\projekty\\lab01_minimalapi\\api\\minimalapidemo\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{391FA8B8-661D-BC65-93E5-07C83540B792}|MinimalApiDemo.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{391FA8B8-661D-BC65-93E5-07C83540B792}|MinimalApiDemo.csproj|d:\\projekty\\lab01_minimalapi\\api\\minimalapidemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{391FA8B8-661D-BC65-93E5-07C83540B792}|MinimalApiDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{391FA8B8-661D-BC65-93E5-07C83540B792}|MinimalApiDemo.csproj|d:\\projekty\\lab01_minimalapi\\api\\minimalapidemo\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{391FA8B8-661D-BC65-93E5-07C83540B792}|MinimalApiDemo.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\Projekty\\Lab01_MinimalAPI\\Api\\MinimalApiDemo\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
               "ToolTip": "D:\\Projekty\\Lab01_MinimalAPI\\Api\\MinimalApiDemo\\Models\\User.cs",
               "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-13T00:47:57.229Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Projekty\\Lab01_MinimalAPI\\Api\\MinimalApiDemo\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Projekty\\Lab01_MinimalAPI\\Api\\MinimalApiDemo\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-12T20:58:51.596Z",
               "EditorCaption": ""
