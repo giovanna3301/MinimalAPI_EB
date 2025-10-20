@@ -26,3 +26,16 @@ D:\Projekty\Lab01_MinimalAPI\Api\MinimalApiDemo\obj\Debug\net9.0\MinimalApiDemo.
 D:\Projekty\Lab01_MinimalAPI\Api\MinimalApiDemo\obj\Debug\net9.0\MinimalApiDemo.genruntimeconfig.cache
 D:\Projekty\Lab01_MinimalAPI\Api\MinimalApiDemo\obj\Debug\net9.0\ref\MinimalApiDemo.dll
 D:\Projekty\Lab01_MinimalAPI\Api\MinimalApiDemo\obj\Debug\net9.0\MinimalApiDemo.sourcelink.json
+D:\Projekty\Lab01_MinimalAPI\Api\MinimalApiDemo\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\Projekty\Lab01_MinimalAPI\Api\MinimalApiDemo\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projekty\Lab01_MinimalAPI\Api\MinimalApiDemo\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Projekty\Lab01_MinimalAPI\Api\MinimalApiDemo\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Projekty\Lab01_MinimalAPI\Api\MinimalApiDemo\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Projekty\Lab01_MinimalAPI\Api\MinimalApiDemo\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Projekty\Lab01_MinimalAPI\Api\MinimalApiDemo\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projekty\Lab01_MinimalAPI\Api\MinimalApiDemo\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\Projekty\Lab01_MinimalAPI\Api\MinimalApiDemo\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projekty\Lab01_MinimalAPI\Api\MinimalApiDemo\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\Projekty\Lab01_MinimalAPI\Api\MinimalApiDemo\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\Projekty\Lab01_MinimalAPI\Api\MinimalApiDemo\obj\Debug\net9.0\MinimalApiDemo.csproj.AssemblyReference.cache
+D:\Projekty\Lab01_MinimalAPI\Api\MinimalApiDemo\obj\Debug\net9.0\MinimalA.B23FC0B1.Up2Date
